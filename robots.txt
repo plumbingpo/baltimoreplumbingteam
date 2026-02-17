@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://baltimoreplumbingteam.com/sitemap.xml
